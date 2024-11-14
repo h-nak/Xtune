@@ -15,3 +15,7 @@ XAI-Based meta-parameter tuning
 - webcolors: 1.11
 
 ## Experiments
+
+## Developers
+- Shimon Sumita
+- Hiroyuki Nakagawa
