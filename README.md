@@ -16,6 +16,12 @@ XAI-Based meta-parameter tuning
 
 ## Experiments
 
+### Data
+- New York City Taxi Demand:
+   (Source:  https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page ) 
+- Wikipedia Page View:
+   (Source:  [https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page](https://github.com/facebook/prophet/blob/main/examples/example_wp_log_peyton_manning.csv) ) 
+
 ## Developers
 - Shimon Sumita
 - Hiroyuki Nakagawa
