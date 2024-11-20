@@ -14,8 +14,6 @@ XAI-Based meta-parameter tuning
 - jupyter
 - webcolors: 1.11
 
-## Source
-
 ## Experiments
 
 ### Data
