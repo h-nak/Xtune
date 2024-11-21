@@ -24,4 +24,5 @@ XAI-Based meta-parameter tuning
 
 ## Developers
 - Shimon Sumita
+- Ryuichi Iida
 - Hiroyuki Nakagawa
